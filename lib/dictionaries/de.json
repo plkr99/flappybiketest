@@ -1,0 +1,101 @@
+{
+  "navigation": {
+    "login": "Anmeldung",
+    "signup": "Melden Sie sich an"
+  },
+  "page": {
+    "start": {
+      "startButton": "Start",
+      "dontHaveAccount": "Sie haben noch kein Konto?"
+    },
+    "login": {
+      "email": {
+        "label": "E-Mail-Adresse",
+        "required": "E-Mail ist erforderlich",
+        "invalid": "Ungültige E-Mail"
+      },
+      "password": {
+        "label": "Passwort",
+        "required": "Passwort wird benötigt",
+        "minLength": "Die Mindestlänge beträgt 5"
+      },
+      "wrongInputs": "E-Mail oder Passwort sind falsch!",
+      "forgotPassword": "Passwort vergessen?",
+      "description": "Melden Sie sich mit Ihrer E-Mail-Adresse an",
+      "loginButton": "Anmeldung"
+    },
+    "signup": {
+      "email": {
+        "label": "E-Mail-Adresse",
+        "required": "E-Mail ist erforderlich",
+        "invalid": "Ungültige E-Mail"
+      },
+      "password": {
+        "label": "Passwort",
+        "required": "Passwort wird benötigt",
+        "minLength": "Die Mindestlänge beträgt 5"
+      },
+      "confirmPassword": {
+        "label": "Passwort bestätigen",
+        "required": "Passwort wird benötigt",
+        "minLength": "Die Mindestlänge beträgt 5",
+        "dontMatch": "Ihre Passwörter stimmen nicht überein"
+      },
+      "description": "Melden Sie sich mit Ihrer E-Mail-Adresse an",
+      "signupButton": "Melden Sie sich an"
+    },
+    "home": {
+      "driveCarefully": "Fahr vorsichtig!",
+      "button": {
+        "start": "Klicken Sie hier, um zu beginnen!",
+        "stop": "Klicken Sie, um zu stoppen!"
+      },
+      "modal": {
+        "title": "Erfolg!",
+        "time": "Gefahrene Zeit",
+        "distance": "Strecke",
+        "credits": "Credits",
+        "loading": "Laden ..."
+      },
+      "menu": {
+        "credit": "Meine Credits",
+        "coupons": "Coupons",
+        "settings": "Einstellungen",
+        "support": "Kontakt & Support",
+        "logout": "Ausloggen"
+      }
+    },
+    "coupons": {
+      "title": "Coupons",
+      "button": "Einlösen",
+      "modal": {
+        "title": "Barcode bitte an der Kasse scannen"
+      }
+    },
+    "settings": {
+      "title": "Einstellungen",
+      "language": "Sprache",
+      "notifications": "Benachrichtigungen"
+    },
+    "support": {
+      "title": "Kontakt & Support",
+      "name": "Name",
+      "email": "E-mail",
+      "message": "Deine Nachricht",
+      "sendButton": "Senden"
+    }
+  },
+  "modal": {
+    "terms": {
+      "title": "Akzeptiere die AGB um fortzufahren.",
+      "approve": " Akzeptieren",
+      "denied": "Ablehnen"
+    },
+    "geo": {
+      "blocked": "Die Geolokalisierung ist blockiert. Bitte aktivieren Sie es in Ihren Browsereinstellungen, um diese Funktion zu nutzen.",
+      "notSupported": "Geolokalisierung ist in diesem Browser nicht verfügbar."
+    },
+    "error": "Fehler",
+    "close": "schließen"
+  }
+}

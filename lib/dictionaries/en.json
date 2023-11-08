@@ -1,0 +1,101 @@
+{
+  "navigation": {
+    "login": "Log in",
+    "signup": "Sign up"
+  },
+  "page": {
+    "start": {
+      "startButton": "Start",
+      "dontHaveAccount": "Don’t have an account ?"
+    },
+    "login": {
+      "email": {
+        "label": "Email address",
+        "required": "Email is required",
+        "invalid": "Invalid Email"
+      },
+      "password": {
+        "label": "Password",
+        "required": "Password is required",
+        "minLength": "min length is 5"
+      },
+      "wrongInputs": "Email or password are wrong!",
+      "forgotPassword": "Forgot password?",
+      "description": "Log in with your Email",
+      "loginButton": "Log in"
+    },
+    "signup": {
+      "email": {
+        "label": "Email address",
+        "required": "Email is required",
+        "invalid": "Invalid Email"
+      },
+      "password": {
+        "label": "Password",
+        "required": "Password is required",
+        "minLength": "min length is 5"
+      },
+      "confirmPassword": {
+        "label": "Confirm Password",
+        "required": "Password is required",
+        "minLength": "min length is 5",
+        "dontMatch": "Your passwords don't match"
+      },
+      "description": "Log in with your Email",
+      "signupButton": "Sign up"
+    },
+    "home": {
+      "driveCarefully": "Drive carefully!",
+      "button": {
+        "start": "Click to start!",
+        "stop": "Click to stop!"
+      },
+      "modal": {
+        "title": "Success!",
+        "time": "Time spent",
+        "distance": "Distance",
+        "credits": "Credits",
+        "loading": "Loading ..."
+      },
+      "menu": {
+        "credit": "My credits",
+        "coupons": "Coupons",
+        "settings": "Settings",
+        "support": "Contact & Support",
+        "logout": "Log out"
+      }
+    },
+    "coupons": {
+      "title": "Coupons",
+      "button": "Redeem",
+      "modal": {
+        "title": "Please scan the barcode at checkout"
+      }
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "notifications": "Notifications"
+    },
+    "support": {
+      "title": "Contact & Support",
+      "name": "Surname",
+      "email": "E-mail",
+      "message": "Your message",
+      "sendButton": "Send"
+    }
+  },
+  "modal": {
+    "terms": {
+      "title": "Accept the terms and conditions to continue.",
+      "approve": " Accept",
+      "denied": "Refuse"
+    },
+    "geo": {
+      "blocked": "Geolocation is blocked. Please enable it in your browser settings to use this feature.",
+      "notSupported": "Geolocation is not available in this browser"
+    },
+    "error": "error",
+    "close": "close"
+  }
+}
